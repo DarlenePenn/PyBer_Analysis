@@ -7,7 +7,7 @@
 ## Results
 ![Total Fares by City Type](/analysis/final_chart.png)
 
-Rural cities had much lower weekly fares that both Suburban and Urban cities over the course of 4 months.  Suburban cities had more drivers than Rural cities and more rides than Urban cities, resulting in higher weekly fares than the Rural cities, but significantly less than Urban cities, which remained above $1,500 per week from Jan through April of 2019.
+Rural cities had much lower weekly fares that both Suburban and Urban cities over the course of 4 months.  Suburban cities had more drivers and mroe rides than Rural cities, resulting in higher weekly fares than the Rural cities, but significantly less than Urban cities, which remained above $1,500 per week from Jan through April of 2019.
 
 ## Summary
 ![Total Drivers by City Type](/analysis/Fig7.png)
